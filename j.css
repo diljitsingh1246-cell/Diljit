@@ -1,0 +1,12 @@
+body{
+    background-color:red;
+     background-image:url('desktop-wallpaper-inspirational-messages-millionaire-quotes.jpg');
+
+    background-image:url('desktop-wallpaper-inspirational-messages-millionaire-quotes.jpg');
+    background-repeat:no-repert;
+    background-attachment:scroll ;
+    background-size:cover ;
+    background-origin:borderbox;
+    background-position:center center;
+    background-clip:border-box;
+}
